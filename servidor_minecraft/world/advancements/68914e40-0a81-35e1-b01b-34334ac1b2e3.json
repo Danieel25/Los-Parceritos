@@ -19,9 +19,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-08-20 15:30:08 +0000",
       "minecraft:river": "2025-08-20 14:42:21 +0000",
       "minecraft:stony_shore": "2025-08-08 13:18:43 +0000",
       "minecraft:dripstone_caves": "2025-08-20 14:36:48 +0000",
+      "minecraft:cold_ocean": "2025-08-20 15:31:17 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-08-08 13:18:32 +0000",
       "minecraft:meadow": "2025-08-08 13:21:59 +0000",
       "minecraft:plains": "2025-08-08 13:20:14 +0000"
@@ -694,6 +696,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-20 15:28:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/yellow_sofa": {
     "criteria": {
       "has_wheat": "2025-08-20 14:28:05 +0000"
@@ -811,6 +819,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-20 15:06:10 +0000",
+      "minecraft:vindicator": "2025-08-20 15:29:33 +0000",
       "minecraft:creeper": "2025-08-20 15:14:04 +0000",
       "minecraft:zombie": "2025-08-20 15:23:55 +0000"
     },
@@ -1185,6 +1194,12 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2025-08-20 14:39:36 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-08-20 15:33:25 +0000"
     },
     "done": true
   },
@@ -2168,7 +2183,8 @@
   },
   "nova_structures:adventure/find_all_illager_structures": {
     "criteria": {
-      "pillager_outpost": "2025-08-20 15:04:41 +0000"
+      "pillager_outpost": "2025-08-20 15:04:41 +0000",
+      "illager_camp": "2025-08-20 15:29:52 +0000"
     },
     "done": false
   },
@@ -2625,6 +2641,12 @@
   "securitycraft:recipes/building_blocks/reinforced_bookshelf": {
     "criteria": {
       "has_book": "2025-08-20 14:51:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-08-20 15:29:52 +0000"
     },
     "done": true
   },
