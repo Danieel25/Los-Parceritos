@@ -1022,3 +1022,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Aug2025 15:06:10.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Monster Hunter]
 [20Aug2025 15:07:35.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Voluntary Exile]
 [20Aug2025 15:08:15.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Where Is The Stone Pen?]
+[20Aug2025 15:18:07.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Ol' Betsy]
+[20Aug2025 15:24:32.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Suit Up]
+[20Aug2025 15:24:54.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has reached the goal [Fortuitous Militia]
+[20Aug2025 15:25:03.886] [Server thread/WARN] [tombstone/]: The death event of the player Samueel_ was canceled by another mod
+[20Aug2025 15:25:03.893] [Server thread/INFO] [tombstone/]: The player Samueel_ has successfully been saved
+[20Aug2025 15:25:12.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ was slain by Vindicator
+[20Aug2025 15:25:32.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Knowledge raises the soul]
