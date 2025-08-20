@@ -998,3 +998,27 @@ com.google.gson.JsonSyntaxException: Unknown item 'savage_and_ravage:blast_proof
 [20Aug2025 14:56:05.343] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/6971, l='ServerLevel[world]', x=-2393.50, y=22.00, z=833.50]
 [20Aug2025 14:56:07.752] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/6995, l='ServerLevel[world]', x=-2399.50, y=21.00, z=834.50]
 [20Aug2025 14:56:07.753] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/6996, l='ServerLevel[world]', x=-2400.50, y=20.00, z=835.50]
+[20Aug2025 14:57:42.551] [Server thread/WARN] [tombstone/]: The death event of the player Samueel_ was canceled by another mod
+[20Aug2025 14:57:42.552] [Server thread/INFO] [tombstone/]: The player Samueel_ has successfully been saved
+[20Aug2025 14:58:27.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ fell from a high place
+[20Aug2025 14:58:27.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Your First Grave]
+[20Aug2025 14:59:16.079] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Armanda'/489, l='ServerLevel[world]', x=-2358.40, y=57.00, z=859.29] died, message: 'Armanda was slain by Zombie'
+[20Aug2025 14:59:16.080] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Armanda'/489, l='ServerLevel[world]', x=-2358.40, y=57.00, z=859.29] died: Armanda was slain by Zombie
+[20Aug2025 15:00:18.866] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Lulëzim'/497, l='ServerLevel[world]', x=-2396.15, y=37.00, z=848.74] died, message: 'Lulëzim hit the ground too hard'
+[20Aug2025 15:00:18.866] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Lulëzim'/497, l='ServerLevel[world]', x=-2396.15, y=37.00, z=848.74] died: Lulëzim fell from a high place
+[20Aug2025 15:02:38.577] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Aug2025 15:02:38.599] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Aug2025 15:02:38.602] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Aug2025 15:02:38.606] [Worker-Main-15/WARN] [lithostitched/]: Template pool fallback chain found: explorify:farmstead/build -> explorify:farmstead/build
+[20Aug2025 15:02:38.679] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=217, y=48, z=159}
+[20Aug2025 15:03:15.553] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/waystone/normal
+[20Aug2025 15:03:15.554] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/bounty/plains
+[20Aug2025 15:03:15.554] [Worker-Main-14/WARN] [lithostitched/]: Non-existent template pool reference: ctov:village/vampirism/totem
+[20Aug2025 15:04:41.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Intruder Alert]
+[20Aug2025 15:05:11.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Magic Writing]
+[20Aug2025 15:05:19.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Amateur Archaeologist]
+[20Aug2025 15:06:10.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Knowledge of Death]
+[20Aug2025 15:06:10.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Ambush]
+[20Aug2025 15:06:10.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Monster Hunter]
+[20Aug2025 15:07:35.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Voluntary Exile]
+[20Aug2025 15:08:15.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Samueel_ has made the advancement [Where Is The Stone Pen?]
